@@ -1,0 +1,680 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background_Game.png</Source>
+      <Name>Background_Game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Background_Game.xnb</Output>
+      <Time>2013-11-20T10:16:09.9227851-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Background_Title.png</Source>
+      <Name>Background_Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Background_Title.xnb</Output>
+      <Time>2013-11-20T11:29:03.3209292-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Start Button.png</Source>
+      <Name>Start Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Start Button.xnb</Output>
+      <Time>2013-11-20T11:29:58.5850901-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TextBox.png</Source>
+      <Name>TextBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\TextBox.xnb</Output>
+      <Time>2013-11-20T12:06:48.6194968-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2013-11-20T14:20:04.0654799-05:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow.png</Source>
+      <Name>arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\arrow.xnb</Output>
+      <Time>2013-11-20T14:32:32.2092713-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Background_Instruction.png</Source>
+      <Name>Background_Instruction</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Background_Instruction.xnb</Output>
+      <Time>2013-11-20T15:23:00.6524883-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TextBox_Insctruction.png</Source>
+      <Name>TextBox_Insctruction</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\TextBox_Insctruction.xnb</Output>
+      <Time>2013-11-20T15:45:28.031554-05:00</Time>
+    </Item>
+    <Item>
+      <Source>InstructionFont.spritefont</Source>
+      <Name>InstructionFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\InstructionFont.xnb</Output>
+      <Time>2013-11-20T15:48:43.0857104-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GameBackground.png</Source>
+      <Name>GameBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\GameBackground.xnb</Output>
+      <Time>2013-11-20T16:11:36.5332671-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardLeft\CharizardLeft1.png</Source>
+      <Name>Charizard\CharizardLeft\CharizardLeft1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardLeft\CharizardLeft1.xnb</Output>
+      <Time>2013-11-20T16:16:53.4033911-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardLeft\CharizardLeft2.png</Source>
+      <Name>Charizard\CharizardLeft\CharizardLeft2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardLeft\CharizardLeft2.xnb</Output>
+      <Time>2013-11-20T16:16:53.4073913-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardLeft\CharizardLeft3.png</Source>
+      <Name>Charizard\CharizardLeft\CharizardLeft3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardLeft\CharizardLeft3.xnb</Output>
+      <Time>2013-11-20T16:16:53.4123916-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardLeft\CharizardLeft4.png</Source>
+      <Name>Charizard\CharizardLeft\CharizardLeft4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardLeft\CharizardLeft4.xnb</Output>
+      <Time>2013-11-20T16:16:53.4183919-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardUp\CharizardUp1.png</Source>
+      <Name>Charizard\CharizardUp\CharizardUp1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardUp\CharizardUp1.xnb</Output>
+      <Time>2013-11-20T16:17:21.9150219-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardUp\CharizardUp2.png</Source>
+      <Name>Charizard\CharizardUp\CharizardUp2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardUp\CharizardUp2.xnb</Output>
+      <Time>2013-11-20T16:17:21.917022-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardUp\CharizardUp3.png</Source>
+      <Name>Charizard\CharizardUp\CharizardUp3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardUp\CharizardUp3.xnb</Output>
+      <Time>2013-11-20T16:17:21.9200221-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardUp\CharizardUp4.png</Source>
+      <Name>Charizard\CharizardUp\CharizardUp4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardUp\CharizardUp4.xnb</Output>
+      <Time>2013-11-20T16:17:21.9240224-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardRight\CharizardRight1.png</Source>
+      <Name>Charizard\CharizardRight\CharizardRight1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardRight\CharizardRight1.xnb</Output>
+      <Time>2013-11-20T16:17:49.0585744-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardRight\CharizardRight2.png</Source>
+      <Name>Charizard\CharizardRight\CharizardRight2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardRight\CharizardRight2.xnb</Output>
+      <Time>2013-11-20T16:17:49.1165777-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardRight\CharizardRight3.png</Source>
+      <Name>Charizard\CharizardRight\CharizardRight3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardRight\CharizardRight3.xnb</Output>
+      <Time>2013-11-20T16:17:49.1315785-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charizard\CharizardRight\CharizardRight4.png</Source>
+      <Name>Charizard\CharizardRight\CharizardRight4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charizard\CharizardRight\CharizardRight4.xnb</Output>
+      <Time>2013-11-20T16:17:49.1345787-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseDown\BlastoiseDown1.png</Source>
+      <Name>Blastoise\BlastoiseDown\BlastoiseDown1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseDown\BlastoiseDown1.xnb</Output>
+      <Time>2013-11-20T16:25:20.5123961-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseDown\BlastoiseDown2.png</Source>
+      <Name>Blastoise\BlastoiseDown\BlastoiseDown2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseDown\BlastoiseDown2.xnb</Output>
+      <Time>2013-11-20T16:25:20.5173963-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseDown\BlastoiseDown3.png</Source>
+      <Name>Blastoise\BlastoiseDown\BlastoiseDown3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseDown\BlastoiseDown3.xnb</Output>
+      <Time>2013-11-20T16:25:20.5213966-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseDown\BlastoiseDown4.png</Source>
+      <Name>Blastoise\BlastoiseDown\BlastoiseDown4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseDown\BlastoiseDown4.xnb</Output>
+      <Time>2013-11-20T16:25:20.5373975-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseLeft\BlastoiseLeft1.png</Source>
+      <Name>Blastoise\BlastoiseLeft\BlastoiseLeft1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseLeft\BlastoiseLeft1.xnb</Output>
+      <Time>2013-11-20T16:25:27.4797946-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseLeft\BlastoiseLeft2.png</Source>
+      <Name>Blastoise\BlastoiseLeft\BlastoiseLeft2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseLeft\BlastoiseLeft2.xnb</Output>
+      <Time>2013-11-20T16:25:27.4837948-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseLeft\BlastoiseLeft3.png</Source>
+      <Name>Blastoise\BlastoiseLeft\BlastoiseLeft3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseLeft\BlastoiseLeft3.xnb</Output>
+      <Time>2013-11-20T16:25:27.4887951-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseLeft\BlastoiseLeft4.png</Source>
+      <Name>Blastoise\BlastoiseLeft\BlastoiseLeft4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseLeft\BlastoiseLeft4.xnb</Output>
+      <Time>2013-11-20T16:25:27.5447983-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseRight\BlastoiseRight1.png</Source>
+      <Name>Blastoise\BlastoiseRight\BlastoiseRight1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseRight\BlastoiseRight1.xnb</Output>
+      <Time>2013-11-20T16:25:34.9032192-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseRight\BlastoiseRight2.png</Source>
+      <Name>Blastoise\BlastoiseRight\BlastoiseRight2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseRight\BlastoiseRight2.xnb</Output>
+      <Time>2013-11-20T16:25:34.8332152-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseRight\BlastoiseRight3.png</Source>
+      <Name>Blastoise\BlastoiseRight\BlastoiseRight3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseRight\BlastoiseRight3.xnb</Output>
+      <Time>2013-11-20T16:25:34.8372154-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blastoise\BlastoiseRight\BlastoiseRight4.png</Source>
+      <Name>Blastoise\BlastoiseRight\BlastoiseRight4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Blastoise\BlastoiseRight\BlastoiseRight4.xnb</Output>
+      <Time>2013-11-20T16:25:34.8992189-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fire_blue.png</Source>
+      <Name>fire_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\fire_blue.xnb</Output>
+      <Time>2013-11-20T21:19:28.6318107-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fire_red.png</Source>
+      <Name>fire_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\fire_red.xnb</Output>
+      <Time>2013-11-20T21:19:52.9121995-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EmptyLife.png</Source>
+      <Name>EmptyLife</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\EmptyLife.xnb</Output>
+      <Time>2013-11-24T18:26:20.3569902-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player1Life.png</Source>
+      <Name>Player1Life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Player1Life.xnb</Output>
+      <Time>2013-11-20T21:49:36.5452175-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player2Life.png</Source>
+      <Name>Player2Life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Player2Life.xnb</Output>
+      <Time>2013-11-20T21:49:36.5482177-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderLeft\CharmanderLeft1.png</Source>
+      <Name>Charmander\CharmanderLeft\CharmanderLeft1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderLeft\CharmanderLeft1.xnb</Output>
+      <Time>2013-11-20T22:30:29.247504-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderLeft\CharmanderLeft2.png</Source>
+      <Name>Charmander\CharmanderLeft\CharmanderLeft2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderLeft\CharmanderLeft2.xnb</Output>
+      <Time>2013-11-20T22:30:29.2515043-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderLeft\CharmanderLeft3.png</Source>
+      <Name>Charmander\CharmanderLeft\CharmanderLeft3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderLeft\CharmanderLeft3.xnb</Output>
+      <Time>2013-11-20T22:30:29.2575046-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderLeft\CharmanderLeft4.png</Source>
+      <Name>Charmander\CharmanderLeft\CharmanderLeft4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderLeft\CharmanderLeft4.xnb</Output>
+      <Time>2013-11-20T22:30:29.2615048-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderRight\CharmanderRight1.png</Source>
+      <Name>Charmander\CharmanderRight\CharmanderRight1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderRight\CharmanderRight1.xnb</Output>
+      <Time>2013-11-20T22:30:36.2299034-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderRight\CharmanderRight2.png</Source>
+      <Name>Charmander\CharmanderRight\CharmanderRight2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderRight\CharmanderRight2.xnb</Output>
+      <Time>2013-11-20T22:30:36.2339036-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderRight\CharmanderRight3.png</Source>
+      <Name>Charmander\CharmanderRight\CharmanderRight3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderRight\CharmanderRight3.xnb</Output>
+      <Time>2013-11-20T22:30:36.2379039-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderRight\CharmanderRight4.png</Source>
+      <Name>Charmander\CharmanderRight\CharmanderRight4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderRight\CharmanderRight4.xnb</Output>
+      <Time>2013-11-20T22:30:36.2429041-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderUp\CharmanderUp1.png</Source>
+      <Name>Charmander\CharmanderUp\CharmanderUp1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderUp\CharmanderUp1.xnb</Output>
+      <Time>2013-11-20T22:30:44.6383843-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderUp\CharmanderUp2.png</Source>
+      <Name>Charmander\CharmanderUp\CharmanderUp2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderUp\CharmanderUp2.xnb</Output>
+      <Time>2013-11-20T22:30:44.6423846-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderUp\CharmanderUp3.png</Source>
+      <Name>Charmander\CharmanderUp\CharmanderUp3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderUp\CharmanderUp3.xnb</Output>
+      <Time>2013-11-20T22:30:44.6473848-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander\CharmanderUp\CharmanderUp4.png</Source>
+      <Name>Charmander\CharmanderUp\CharmanderUp4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Charmander\CharmanderUp\CharmanderUp4.xnb</Output>
+      <Time>2013-11-20T22:30:44.6513851-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleDown\SquirtleDown1.png</Source>
+      <Name>Squirtle\SquirtleDown\SquirtleDown1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleDown\SquirtleDown1.xnb</Output>
+      <Time>2013-11-20T22:41:11.5812434-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleDown\SquirtleDown2.png</Source>
+      <Name>Squirtle\SquirtleDown\SquirtleDown2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleDown\SquirtleDown2.xnb</Output>
+      <Time>2013-11-20T22:41:11.6042447-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleDown\SquirtleDown3.png</Source>
+      <Name>Squirtle\SquirtleDown\SquirtleDown3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleDown\SquirtleDown3.xnb</Output>
+      <Time>2013-11-20T22:41:11.609245-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleDown\SquirtleDown4.png</Source>
+      <Name>Squirtle\SquirtleDown\SquirtleDown4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleDown\SquirtleDown4.xnb</Output>
+      <Time>2013-11-20T22:41:11.6132452-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleLeft\SquirtleLeft1.png</Source>
+      <Name>Squirtle\SquirtleLeft\SquirtleLeft1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleLeft\SquirtleLeft1.xnb</Output>
+      <Time>2013-11-20T22:41:20.0787294-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleLeft\SquirtleLeft2.png</Source>
+      <Name>Squirtle\SquirtleLeft\SquirtleLeft2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleLeft\SquirtleLeft2.xnb</Output>
+      <Time>2013-11-20T22:41:20.0837297-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleLeft\SquirtleLeft3.png</Source>
+      <Name>Squirtle\SquirtleLeft\SquirtleLeft3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleLeft\SquirtleLeft3.xnb</Output>
+      <Time>2013-11-20T22:41:20.08773-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleLeft\SquirtleLeft4.png</Source>
+      <Name>Squirtle\SquirtleLeft\SquirtleLeft4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleLeft\SquirtleLeft4.xnb</Output>
+      <Time>2013-11-20T22:41:20.0927302-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleRight\SquirtleRight1.png</Source>
+      <Name>Squirtle\SquirtleRight\SquirtleRight1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleRight\SquirtleRight1.xnb</Output>
+      <Time>2013-11-20T22:41:27.0321272-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleRight\SquirtleRight2.png</Source>
+      <Name>Squirtle\SquirtleRight\SquirtleRight2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleRight\SquirtleRight2.xnb</Output>
+      <Time>2013-11-20T22:41:27.0361274-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleRight\SquirtleRight3.png</Source>
+      <Name>Squirtle\SquirtleRight\SquirtleRight3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleRight\SquirtleRight3.xnb</Output>
+      <Time>2013-11-20T22:41:27.0401276-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle\SquirtleRight\SquirtleRight4.png</Source>
+      <Name>Squirtle\SquirtleRight\SquirtleRight4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Squirtle\SquirtleRight\SquirtleRight4.xnb</Output>
+      <Time>2013-11-20T22:41:27.0441278-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PokemonEgg.png</Source>
+      <Name>PokemonEgg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\PokemonEgg.xnb</Output>
+      <Time>2013-11-21T12:28:46.2530324-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffect\Hit.wav</Source>
+      <Name>SoundEffect\Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\SoundEffect\Hit.xnb</Output>
+      <Time>2013-11-24T15:59:26.1568468-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffect\Shoot.wav</Source>
+      <Name>SoundEffect\Shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\SoundEffect\Shoot.xnb</Output>
+      <Time>2013-11-24T15:59:26.1598469-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\EndScreen.mp3</Source>
+      <Name>Music\EndScreen</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Music\EndScreen.xnb</Output>
+      <Extra>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Music\EndScreen.wma</Extra>
+      <Time>2013-11-24T16:31:03.402363-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\PressStartScreen.mp3</Source>
+      <Name>Music\PressStartScreen</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Music\PressStartScreen.xnb</Output>
+      <Extra>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Music\PressStartScreen.wma</Extra>
+      <Time>2013-11-24T16:31:03.4103634-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\TitleScreen.mp3</Source>
+      <Name>Music\TitleScreen</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Music\TitleScreen.xnb</Output>
+      <Extra>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Music\TitleScreen.wma</Extra>
+      <Time>2013-11-24T16:31:03.4153637-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\GameScreen.mp3</Source>
+      <Name>Music\GameScreen</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Music\GameScreen.xnb</Output>
+      <Extra>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\Music\GameScreen.wma</Extra>
+      <Time>2013-11-24T16:37:10.0743354-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon BattleContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon BattleContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Garry\Desktop\Pokemon Battle\Pokemon Battle\Pokemon Battle\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-07T23:06:31.9892404-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
